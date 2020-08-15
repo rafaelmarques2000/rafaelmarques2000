@@ -11,5 +11,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelmarquespaixa@outlook.com)](mailto:rafaelmarquespaixa@outlook.com)
 
 - Obrigado pela sua visita. 
-
+  
 - "A melhor maneira de prever o future é cria-lo" - Alan Kay
