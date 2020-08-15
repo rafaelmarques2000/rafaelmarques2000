@@ -1,16 +1,17 @@
-### Hi there 👋
+<img align="right" width="500" height="500" src="https://www.hojeemdia.com.br/polopoly_fs/1.588863!/image/image.jpg_gen/derivatives/landscape_653/image.jpg">
 
-<!--
-**rafaelmarques2000/rafaelmarques2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bem vindo!
 
-Here are some ideas to get you started:
+## Eu sou Rafael Marques!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+… Insira suas descrições aqui!
+
+
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/rafaelmarques2000)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/rafael-marques-paixao/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelmarquespaixa@outlook.com)](mailto:rafaelmarquespaixa@outlook.com)
+
+- Obrigado pela sua visita. 
+
+- "A melhor maneira de prever o future é cria-lo" - Alan Kay
