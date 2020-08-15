@@ -1,5 +1,3 @@
-<img align="right" width="500" height="500" src="https://www.hojeemdia.com.br/polopoly_fs/1.588863!/image/image.jpg_gen/derivatives/landscape_653/image.jpg">
-
 # Bem vindo!
 
 ## Eu sou Rafael Marques!
