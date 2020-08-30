@@ -6,6 +6,13 @@
 - PHP 5.6 & 7.x(Avançado)
 - NodeJs(Intermediário)
 - ASP.NET MVC(Básico)
+<br>
+**Frontend** <br>
+-HTML5(Intermediário)
+-CSS 3(Intermediário)
+-VueJS(Intermediário)
+
+
 
 
 
