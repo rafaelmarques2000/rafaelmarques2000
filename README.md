@@ -7,10 +7,14 @@
 - NodeJs(Intermediário)
 - ASP.NET MVC(Básico)
 <br>
+
 **Frontend** <br>
--HTML5(Intermediário)
--CSS 3(Intermediário)
--VueJS(Intermediário)
+- HTML5(Intermediário)
+- CSS3(Intermediário)
+- VueJS(Intermediário)
+<br>
+
+
 
 
 
