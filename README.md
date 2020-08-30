@@ -2,7 +2,11 @@
 
 ## Eu sou Rafael Marques!
 
-… Insira suas descrições aqui!
+**Backend** <br>
+- PHP 5.6 & 7.x(Avançado)
+- NodeJs(Intermediário)
+- ASP.NET MVC(Básico)
+
 
 
 ## Sobre min 
