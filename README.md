@@ -7,12 +7,16 @@
 - NodeJs(Intermediário)
 - ASP.NET MVC(Básico)
 <br>
-
 **Frontend** <br>
 - HTML5(Intermediário)
 - CSS3(Intermediário)
 - VueJS(Intermediário)
 <br>
+**Fundamentos** <br>
+- Orientação a objetos
+- Design patterns
+- Solid
+- CleanCode
 
 
 
