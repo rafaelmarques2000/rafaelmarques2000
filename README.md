@@ -6,11 +6,14 @@
 - PHP 5.6 & 7.x(Avançado)
 - NodeJs(Intermediário)
 - ASP.NET MVC(Básico)
+- Laravel (Avançado)
+- CodeIgniter(Intermediário)
 <br>
 
 **Frontend** <br>
 - HTML5(Intermediário)
 - CSS3(Intermediário)
+- Javascript(Intermediário)
 - VueJS(Intermediário)
 <br>
 
@@ -19,12 +22,13 @@
 - Design patterns
 - Solid
 - CleanCode
+<br>
 
-
-
-
-
-
+**Outras**
+- GCP(Basico)
+- Docker(Básico)
+- C#(Intermediario)
+- Electron(Básico)
 
 ## Sobre min 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/rafaelmarques2000)
