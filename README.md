@@ -24,11 +24,21 @@
 - CleanCode
 <br>
 
+**Banco de dados**
+- Mysql(Intermediario)
+- Ms Sql(Intermediario)
+- PostgreSQL(Intermediario)
+- MongoDb(Básico)
+
 **Outras**
 - GCP(Basico)
 - Docker(Básico)
 - C#(Intermediario)
 - Electron(Básico)
+
+**Em Estudo**
+- SSO
+- Microserviços
 
 ## Sobre min 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/rafaelmarques2000)
