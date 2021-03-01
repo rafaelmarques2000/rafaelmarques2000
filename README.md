@@ -3,18 +3,18 @@
 ## Eu sou Rafael Marques!
 
 **Backend** <br>
-- PHP 5.6 & 7.x(Avançado)
-- NodeJs(Intermediário)
-- ASP.NET MVC(Básico)
-- Laravel (Avançado)
-- CodeIgniter(Intermediário)
+- PHP
+- Node
+- ASP.NET MVC
+- Laravel
+- CodeIgniter
 <br>
 
 **Frontend** <br>
-- HTML5(Intermediário)
-- CSS3(Intermediário)
-- Javascript(Intermediário)
-- VueJS(Intermediário)
+- HTML5
+- CSS3
+- Javascript
+- VueJS
 <br>
 
 **Fundamentos** <br>
@@ -25,18 +25,15 @@
 <br>
 
 **Banco de dados**
-- Mysql(Intermediario)
-- Ms Sql(Intermediario)
-- PostgreSQL(Intermediario)
-- MongoDb(Básico)
+- Mysql
+- Ms Sql
+- PostgreSQL
+- MongoDb
 
 **Outras**
-- GCP(Basico)
 - Docker(Básico)
-- C#(Intermediario)
-- Electron(Básico)
-
-**Em Estudo**
+- C#
+**Outros**
 - SSO
 - Microserviços
 
