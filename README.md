@@ -5,9 +5,8 @@
 **Backend** <br>
 - PHP
 - Node
-- ASP.NET MVC
+- Java | springboot | webflux
 - Laravel
-- CodeIgniter
 <br>
 
 **Frontend** <br>
@@ -22,6 +21,7 @@
 - Design patterns
 - Solid
 - CleanCode
+- Arquitetura Hexagonal
 <br>
 
 **Banco de dados**
@@ -36,6 +36,8 @@
 **Outros**
 - SSO
 - Microserviços
+- Grafana
+- Datadog
 
 ## Sobre min 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/rafaelmarques2000)
